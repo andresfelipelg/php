@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "visualstudioexptteam.vscodeintellicode",
+        "xabikos.javascriptsnippets",
+        "akamud.vscode-javascript-snippet-pack",
+        "christian-kohler.path-intellisense",
+        "felixfbecker.php-pack",
+        "bmewburn.vscode-intelephense-client",
+        "felixfbecker.php-intellisense"
+    ]
+}
